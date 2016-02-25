@@ -1,0 +1,11 @@
+D:\A.POLY\SPRING 2016\Điện toán đám mây - INF205\Assigment\QLBH\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe.config
+D:\A.POLY\SPRING 2016\Điện toán đám mây - INF205\Assigment\QLBH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmKH.resources
+D:\A.POLY\SPRING 2016\Điện toán đám mây - INF205\Assigment\QLBH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmQLBH.resources
+D:\A.POLY\SPRING 2016\Điện toán đám mây - INF205\Assigment\QLBH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Resources.resources
+D:\A.POLY\SPRING 2016\Điện toán đám mây - INF205\Assigment\QLBH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.vbproj.GenerateResource.Cache
+D:\A.POLY\SPRING 2016\Điện toán đám mây - INF205\Assigment\QLBH\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe
+D:\A.POLY\SPRING 2016\Điện toán đám mây - INF205\Assigment\QLBH\QLBanHang\QLBanHang\bin\Debug\QLBanHang.pdb
+D:\A.POLY\SPRING 2016\Điện toán đám mây - INF205\Assigment\QLBH\QLBanHang\QLBanHang\bin\Debug\QLBanHang.xml
+D:\A.POLY\SPRING 2016\Điện toán đám mây - INF205\Assigment\QLBH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe
+D:\A.POLY\SPRING 2016\Điện toán đám mây - INF205\Assigment\QLBH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.xml
+D:\A.POLY\SPRING 2016\Điện toán đám mây - INF205\Assigment\QLBH\QLBanHang\QLBanHang\obj\Debug\QLBanHang.pdb
