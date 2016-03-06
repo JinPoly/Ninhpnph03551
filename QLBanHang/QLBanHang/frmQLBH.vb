@@ -7,12 +7,6 @@
         Dim sqlQuery As String = String.Format("SELECT MaKH, TenKH, DiaChi, SDT FROM dbo.KhachHang")
         Dim dTable As DataTable = _DBAccess.GetDataTable(sqlQuery)
         Me.dgvKH.DataSource = dTable
-        With Me.dgvKH
-            .Columns(0).HeaderText = "MaKH"
-            .Columns(1).HeaderText = "TenKH"
-            .Columns(2).HeaderText = "DiaChi"
-            .Columns(3).HeaderText = "SDT"
-        End With
     End Sub
     Private Sub frmQLBH_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         LoadKH()
